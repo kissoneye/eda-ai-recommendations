@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+type: report
+title: "Recommendations on Leveraging AI in the EDA Domain — The Bottleneck Is Not LLM Performance, but the Data We Give the LLM"
+authors:
+  - family-names: "Kim"
+    given-names: "Kyoungman"
+version: "1.0"
+date-released: "2026-10-18"
+license: CC-BY-4.0
+keywords:
+  - EDA
+  - LLM
+  - RAG
+  - "Domain Adaptation"
+  - "Knowledge Graph"
+  - PPA
+  - "Data Normalization"
+  - "Agentic AI"
